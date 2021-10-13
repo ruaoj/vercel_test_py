@@ -1,2 +1,1 @@
-from turtle import *
-fd(100)
+print("Hello World")
